@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RealTimeChat/static/css/main.70a356df.css",
+    "main.js": "/RealTimeChat/static/js/main.2bf89178.js",
+    "index.html": "/RealTimeChat/index.html",
+    "main.70a356df.css.map": "/RealTimeChat/static/css/main.70a356df.css.map",
+    "main.2bf89178.js.map": "/RealTimeChat/static/js/main.2bf89178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a356df.css",
+    "static/js/main.2bf89178.js"
+  ]
+}
